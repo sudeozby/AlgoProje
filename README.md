@@ -1,0 +1,2 @@
+# AlgoProje
+algoritma dersi projemiz
